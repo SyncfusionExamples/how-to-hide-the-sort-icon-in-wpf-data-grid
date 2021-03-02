@@ -4,7 +4,7 @@ How to hide the sort icon in WPF DataGrid (SfDataGrid)?
 
 # About the sample
 
-In SfDataGrid, you can hide the sort icon by changing the fill color for PART_SortButtonPresenter in GridHeaderCellControl.
+In [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid), you can hide the sort icon by changing the fill color for PART_SortButtonPresenter in GridHeaderCellControl.
 
 ```Xaml
 <Grid x:Name="PART_SortButtonPresenter" 
