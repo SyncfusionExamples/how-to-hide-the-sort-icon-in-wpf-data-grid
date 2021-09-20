@@ -70,5 +70,8 @@ Visibility="{Binding Path=SortDirection,
  
 </Grid>
 ```
+
+KB article - [How to hide the sort icon in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12133/how-to-hide-the-sort-icon-in-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
  Visual Studio 2015 and above versions
